@@ -1,3 +1,7 @@
+function showThankYouAlert() {
+    alert('Mksxih byk omg.....');
+}
+
 function moveButton() {
     const btn = document.getElementById('ga');
     const container = document.querySelector('.container');
